@@ -1,0 +1,3 @@
+I am edited on this date 2019-05-27.
+
+I am inside the stage branch
